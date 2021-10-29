@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="is_leap_year_test" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-11T15:14:21" hostname="DESKTOP-62SM157" time="0.017">
+<testsuite name="is_leap_year_test" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-29T13:15:50" hostname="DESKTOP-62SM157" time="0.014">
   <properties/>
-  <testcase name="not_divisible_by_four()" classname="is_leap_year_test" time="0.013"/>
+  <testcase name="not_divisible_by_four()" classname="is_leap_year_test" time="0.011"/>
   <testcase name="is_Leap_Year_Correct()" classname="is_leap_year_test" time="0.001"/>
-  <testcase name="divisible_by_100_and_not_by_400()" classname="is_leap_year_test" time="0.001"/>
-  <testcase name="is_divisible_by_four_and_not_hundred()" classname="is_leap_year_test" time="0.0"/>
-  <testcase name="is_divisible_by_fourhundred()" classname="is_leap_year_test" time="0.001"/>
+  <testcase name="divisible_by_100_and_not_by_400()" classname="is_leap_year_test" time="0.0"/>
+  <testcase name="is_divisible_by_four_and_not_hundred()" classname="is_leap_year_test" time="0.001"/>
+  <testcase name="is_divisible_by_fourhundred()" classname="is_leap_year_test" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
